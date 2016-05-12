@@ -5,8 +5,6 @@ BEFORE POSTING AN ISSUE, PLEASE CONSULT THE "HELP" WIKI at {insert link here} to
 
 If you don't see your question, it's time to file a new issue.
 
-To file an new issue:
-
 1. Create a github account or login.
 2. Go to the "Issues" tab.
 3. Use "New Issue" button to create new issue. 
